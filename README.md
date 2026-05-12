@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-songara-442193250)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/SourabhSongara/my-portfolio-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://react-portfolio-03.vercel.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SourabhSongara&label=Profile%20Views&color=302b63&style=flat-square)
 
@@ -100,7 +100,7 @@ const sourabh = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🌐 My Portfolio](https://github.com/SourabhSongara/my-portfolio-) | Personal portfolio website showcasing my work | HTML, CSS, JS |
+| [🌐 My Portfolio](https://react-portfolio-03.vercel.app/) | Personal portfolio website showcasing my work | React, Vercel |
 | [🔄 Parallax Scrolling](https://github.com/SourabhSongara/paralLax_scrolling_effect) | Smooth parallax scrolling visual effect | HTML, CSS |
 | [🧮 Calculator](https://github.com/SourabhSongara/calculator) | Clean, functional calculator app | HTML, CSS, JS |
 | [📈 JPMC SWE Task 1](https://github.com/SourabhSongara/forage-jpmc-swe-task-1) | J.P. Morgan Software Engineering Forage — Task 1 | Python |
@@ -122,8 +122,7 @@ const sourabh = {
 
 ### 💬 Let's Build Something Great Together
 
-*"First, solve the problem. Then, write the code." – Sourabh Songara*
-
+*"Make it work, make it right, make it fast."* — Sourabh Songara
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
